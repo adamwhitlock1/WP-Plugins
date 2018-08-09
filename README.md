@@ -19,5 +19,6 @@
 #### Admin and back end dashboard
 
 Change email in general settings without confirming email address
+
 https://wordpress.org/plugins/change-admin-email-setting-without-outbound-email/
 

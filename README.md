@@ -4,6 +4,12 @@
 
 #### Beaver Builder
 
+Tips for optimizing Beaver Builder
+
+https://www.wpbeaverbuilder.com/make-your-wordpress-site-fast/
+
+
+
 #### WP REST API
 
 #### Extending Post Types and Taxonomies
@@ -14,7 +20,15 @@
 
 #### Performance
 
+Cloudflare optimization/cdn and WAF
+
+https://wordpress.org/plugins/cloudflare/
+
 #### Security
+
+Wordpfence Security Firewall and Site Scanner
+
+https://wordpress.org/plugins/wordfence/
 
 #### Admin and back end dashboard
 
